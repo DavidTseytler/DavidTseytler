@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 - ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
 - 📑 CS Graduate from Economics and Law University, Khabarovsk.
-- 💪 Part of team Tamarind LTD
+- 💪 Part of team Tamarind Media LTD
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
