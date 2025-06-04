@@ -1,5 +1,5 @@
 <!--
-**evilgenius786/evilgenius786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DavidTseytler/DavidTseytler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,57 +12,56 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hey there, I'm  Hassan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
+### Hey there, I'm  David <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px">
 <p>I build scalable and efficient scraping solutions to bring your ideas into reality.</p>
 
 
 <div align="center">
 <p align="center">Let's connect!</p>
 
-<a href="https://www.facebook.com/evilgenius786/">
+<a href="https://www.facebook.com//">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.facebook.com&sz=128" />
 </a>
 
-<a href="https://www.linkedin.com/in/evil-genius/">
+<a href="https://www.linkedin.com//">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.linkedin.com&sz=256" />
 </a>
-<a href="https://t.me/evilgenius786">
+<a href="https://t.me/DavidTseytler">
     <img width="32" height="32" src="https://telegram.org/favicon.ico?3" />
 </a>
    
 
-<a href="mailto:786hassan777@gmail.com">
+<a href="mailto:tseitler920821@gmail.com">
     <img width="32" height="32" src="https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico" />
 </a>
-<a href="https://www.instagram.com/evilgenius786/">
+<a href="https://www.instagram.com/DavidTseytler/">
     <img width="32" height="32" src="https://www.google.com/s2/favicons?domain=www.instagram.com&sz=256" />
 </a>
 
     
-<a href="https://api.whatsapp.com/send?phone=923065855647">
+<a href="https://api.whatsapp.com/send?phone=+79997937115">
     <img width="32" height="32" src="https://web.whatsapp.com/favicon-64x64.ico" />
 </a>
 
 
-<a href="https://www.upwork.com/freelancers/evilgenius786">
+<a href="https://www.upwork.com/freelancers/~017ca85c8ace1b476b">
     <img width="32" height="32" src="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/upwork.ico" />
 </a>
 </div>
 
 <br>
 
-### A CS graduate, Developer & Freelancer
+### Developer & Freelancer
 
 <img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 #### Talking about my personal stuff:
 
-- 🙋‍♂️ Top-Rated Plus Freelancer at Upwork
+- 🙋‍♂️ Top-Rated Freelancer at Upwork
 - ⚡ Data Scraping/Web automation
 - 💻 Android/Windows/Web dev
-- 📑 CS Graduate from Air University, Islamabad.
-- 💪 Conducted multiple <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/Screenshot_1.png">workshops</a> on Freelancing @ Upwork
-- 🏅 Won the <a href="https://raw.githubusercontent.com/evilgenius786/evilgenius786/main/20231203_113304.jpg">Best Freelancer Award</a> in <a href="https://www.facebook.com/photo/?fbid=730574605772607&set=a.730582385771829">Connected Pakistan Conference 2023</a>
+- 📑 CS Graduate from Economics and Law University, Khabarovsk.
+- 💪 Part of team Tamarind LTD
 
 ### My skills 🛠
 👉 Data Scraping (Python/bs4/Requests) (Since 2019)<br>
