@@ -95,14 +95,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 <br>
-<summary>📝 My GitHub Stats</summary>
-<br>
 
-![Hassan's github stats](https://github-readme-stats.vercel.app/api?username=evilgenius786&theme=gotham&show_icons=true&include_all_commits=true&)
-<br>
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=evilgenius786&layout=compact&theme=gotham&count_private=true&include_all_commits=true" />
-<br><br>
-Open Source Contributor from <b>Pakistan<b> 💚
-    <br><br>
-![](https://visitor-badge.glitch.me/badge?page_id=evilgenius786.evilgenius786)
-<br>
